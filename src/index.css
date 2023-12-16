@@ -28,3 +28,6 @@
         hsla(242, 74%, 61%, 0.8)   
     )!important;
 }
+.kalai-navbar ul li:hover{
+    @apply text-[#db2777] cursor-pointer
+}
