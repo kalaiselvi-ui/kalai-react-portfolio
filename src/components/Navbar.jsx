@@ -1,17 +1,14 @@
 import React, { useState } from 'react';
+import { BsFillPersonLinesFill } from 'react-icons/bs';
 import {
   FaBars,
-  FaTimes,
   FaGithub,
   FaLinkedin,
-  FaFacebook,
-  FaLinkedinIn,
+  FaTimes
 } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
-import { BsFillPersonLinesFill } from 'react-icons/bs';
-import Logo from '../assets/kalaiimg.jpeg';
 import { Link } from 'react-scroll';
-import Resumepdf from '../assets/Kalai_frontend_developer.pdf';
+import Resumepdf from '../assets/kalai_frontend_resume.pdf';
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -119,7 +116,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='mailto:kalaichandran369@gmail.com'
+              href='mailto:kalaiselvi031996@gmail.com'
             >
               Email <HiOutlineMail size={30} />
             </a>
