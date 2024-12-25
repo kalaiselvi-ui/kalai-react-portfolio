@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kalai-react-portfolio/static/css/main.9c5ac237.css",
-    "main.js": "/kalai-react-portfolio/static/js/main.ff50f711.js",
+    "main.css": "/kalai-react-portfolio/static/css/main.f6756863.css",
+    "main.js": "/kalai-react-portfolio/static/js/main.ccf39b4f.js",
     "static/media/AtlantisAqu.png": "/kalai-react-portfolio/static/media/AtlantisAqu.9a82ca58c5f09eba97e6.png",
     "static/media/AsterHosp.png": "/kalai-react-portfolio/static/media/AsterHosp.24b923647c8e34fe9879.png",
     "static/media/MedicaHealth.png": "/kalai-react-portfolio/static/media/MedicaHealth.27bca7e9730caa94ac67.png",
@@ -9,22 +9,22 @@
     "static/media/MaisonLgh.png": "/kalai-react-portfolio/static/media/MaisonLgh.8d16005b0d046bfe476c.png",
     "static/media/WellthHos.png": "/kalai-react-portfolio/static/media/WellthHos.570e395c4278b19cb3d2.png",
     "static/media/MedcareHos.png": "/kalai-react-portfolio/static/media/MedcareHos.a4d95db0223c61f93249.png",
+    "static/media/kalai_frontend_resume.pdf": "/kalai-react-portfolio/static/media/kalai_frontend_resume.c46805911be242cfb55c.pdf",
     "static/media/php.png": "/kalai-react-portfolio/static/media/php.a7759c068d5c9f03bebf.png",
     "static/media/react.png": "/kalai-react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/github.png": "/kalai-react-portfolio/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/kalai-react-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/kalai-react-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/css.png": "/kalai-react-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/kalaiimg.jpeg": "/kalai-react-portfolio/static/media/kalaiimg.71ba4ccc88b63e88fc49.jpeg",
     "static/media/jquerry.png": "/kalai-react-portfolio/static/media/jquerry.bf7b1d532ddf3126c62a.png",
     "static/media/wordpress.png": "/kalai-react-portfolio/static/media/wordpress.7614628b41347abb4062.png",
     "static/media/javascript.png": "/kalai-react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/kalai-react-portfolio/index.html",
-    "main.9c5ac237.css.map": "/kalai-react-portfolio/static/css/main.9c5ac237.css.map",
-    "main.ff50f711.js.map": "/kalai-react-portfolio/static/js/main.ff50f711.js.map"
+    "main.f6756863.css.map": "/kalai-react-portfolio/static/css/main.f6756863.css.map",
+    "main.ccf39b4f.js.map": "/kalai-react-portfolio/static/js/main.ccf39b4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c5ac237.css",
-    "static/js/main.ff50f711.js"
+    "static/css/main.f6756863.css",
+    "static/js/main.ccf39b4f.js"
   ]
 }
