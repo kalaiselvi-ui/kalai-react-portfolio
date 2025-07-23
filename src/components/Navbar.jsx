@@ -3,7 +3,7 @@ import { BsFillPersonLinesFill } from "react-icons/bs";
 import { FaBars, FaGithub, FaLinkedin, FaTimes } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { Link } from "react-scroll";
-import Resumepdf from "../assets/Kalai_resume_dev.pdf";
+import Resumepdf from "../assets/kalai_resume_dev.pdf";
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
