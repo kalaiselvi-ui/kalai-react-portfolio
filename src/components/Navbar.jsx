@@ -96,7 +96,7 @@ const Navbar = () => {
             <a
               className="flex justify-between items-center w-full text-gray-300"
               target="_blank"
-              href="https://www.linkedin.com/in/kalaiselvi-j-b6b426177?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+              href="https://www.linkedin.com/in/kalai-react-frontend/"
             >
               Linkedin <FaLinkedin size={30} />
             </a>
@@ -121,7 +121,9 @@ const Navbar = () => {
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href={Resumepdf}
-              download="kalai_react_resume.pdf"
+              download="kalai_react_resume_2026.pdf"
+              rel="noopener noreferrer"
+              target="_blank"
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>

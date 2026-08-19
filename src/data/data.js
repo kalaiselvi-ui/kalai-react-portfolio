@@ -5,54 +5,69 @@ import MedcareHos from "../assets/projects/MedcareHos.png";
 import WellthHos from "../assets/projects/WellthHos.png";
 import MedicaHealth from "../assets/projects/MedicaHealth.png";
 import ReemHosp from "../assets/projects/ReemHosp.png";
-import greenCart from "../assets/projects/greencart_img.png";
-import rentelApp from "../assets/projects/rendel_app.png";
+import novatech from "../assets/projects/novatech.png";
+import careerHub from "../assets/projects/careerHub.png";
+import tnvoyage from "../assets/projects/tnvoyage.png";
 
 export const data = [
   {
     id: 1,
+    name: "NovaTech",
+    image: novatech,
+    github: "",
+    live: "https://novatech-pied.vercel.app/",
+  },
+  {
+    id: 2,
     name: "Aster Hospital",
     image: AsterHop,
     github: "",
     live: "https://www.asterhospitals.ae/",
   },
   {
-    id: 2,
+    id: 3,
+    name: "CareerHub",
+    image: careerHub,
+    github: "",
+    live: "https://career-hub-job-portal-tau.vercel.app",
+  },
+  {
+    id: 4,
     name: "Aquaventure",
     image: AtlantisAqu,
     github: "",
     live: "https://atlantisv2.bluelogic.ai/",
   },
   {
-    id: 3,
-    name: "GreenCart",
-    image: greenCart,
+    id: 5,
+    name: "TnVoyage",
+    image: tnvoyage,
     github: "",
-    live: "https://mern-greencart.vercel.app/",
+    live: "https://tnvoyage-app.vercel.app/",
   },
   {
-    id: 4,
+    id: 6,
     name: "Medcare Hospital",
     image: MedcareHos,
     github: "",
     live: "https://www.medcare.ae/en",
   },
   {
-    id: 5,
+    id: 7,
     name: "Wellth Hospital",
     image: WellthHos,
     github: "",
     live: "https://wellth.ae/",
   },
   {
-    id: 6,
+    id: 8,
     name: "Medica BeautyCare",
     image: MedicaHealth,
     github: "",
     live: "https://medicagroup.com/beauty-seeker/",
   },
   {
-    id: 7,
+    id: 9,
     name: "Reem Hospital",
     image: ReemHosp,
     github: "",
@@ -64,12 +79,5 @@ export const data = [
     image: MaisonLgh,
     github: "",
     live: "https://maisonlgh.com/",
-  },
-  {
-    id: 8,
-    name: "Rental App",
-    image: rentelApp,
-    github: "",
-    live: "https://client-rental-app.vercel.app/",
   },
 ];

@@ -5,10 +5,8 @@ import CSS from "../assets/css.png";
 import JavaScript from "../assets/javascript.png";
 import ReactImg from "../assets/react.png";
 import Jquery from "../assets/jquerry.png";
-import Wordpress from "../assets/wordpress.png";
 import GitHub from "../assets/github.png";
 import Tailwind from "../assets/tailwind.png";
-import Php from "../assets/php.png";
 
 const Skills = () => {
   return (
@@ -24,6 +22,10 @@ const Skills = () => {
 
         <div className="w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8">
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={ReactImg} alt="HTML icon" />
+            <p className="my-4">REACT</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={HTML} alt="HTML icon" />
             <p className="my-4">HTML</p>
           </div>
@@ -35,13 +37,22 @@ const Skills = () => {
             <img className="w-20 mx-auto" src={JavaScript} alt="HTML icon" />
             <p className="my-4">JAVASCRIPT</p>
           </div>
+
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={ReactImg} alt="HTML icon" />
-            <p className="my-4">REACT</p>
+            <img
+              className="w-20 mx-auto"
+              src="https://cdn.iconscout.com/icon/free/png-512/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png"
+              alt="NodeJS icon"
+            />{" "}
+            <p className="my-4">Nodejs</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={Wordpress} alt="HTML icon" />
-            <p className="my-4">Wordpress</p>
+            <img
+              className="w-20 mx-auto"
+              src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175140.png"
+              alt="MongoDB icon"
+            />{" "}
+            <p className="my-4">Mongodb</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={Tailwind} alt="HTML icon" />
@@ -56,8 +67,8 @@ const Skills = () => {
             <p className="my-4">GITHUB</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={Php} alt="HTML icon" />
-            <p className="my-4">PHP</p>
+            <img className="w-20 mx-auto" src={ReactImg} alt="HTML icon" />
+            <p className="my-4">React Tanstack</p>
           </div>
         </div>
       </div>

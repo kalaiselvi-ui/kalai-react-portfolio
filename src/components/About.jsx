@@ -20,11 +20,14 @@ const About = () => {
           </div>
           <div>
             <p>
-              I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?
+              I am a passionate developer dedicated to building high-quality
+              software that solves real-world problems. Having spent 4 years
+              mastering frontend development with ReactJS and modern JavaScript,
+              I have expanded my toolkit into full-stack development using
+              Node.js, Express, and MongoDB. Whether designing responsive user
+              interfaces, integrating state management with TanStack, or
+              developing secure backend APIs, I enjoy bringing ideas to life
+              from concept to deployment.
             </p>
           </div>
         </div>
