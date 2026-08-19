@@ -3,7 +3,7 @@ import { BsFillPersonLinesFill } from "react-icons/bs";
 import { FaBars, FaGithub, FaLinkedin, FaTimes } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { Link } from "react-scroll";
-import Resumepdf from "../assets/kalai_resume_dev.pdf";
+import Resumepdf from "../assets/kalai_react_resume_2026.pdf";
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -121,7 +121,7 @@ const Navbar = () => {
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href={Resumepdf}
-              download="Kalairesume.pdf"
+              download="kalai_react_resume.pdf"
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
